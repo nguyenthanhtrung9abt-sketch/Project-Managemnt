@@ -1,0 +1,3 @@
+NV001,Phùng Văn A,BA,30000.0
+NV002,Nguyễn Thị B,Dev,60000.0
+NV003,Hoàng Nhân C,Test,50000.0
